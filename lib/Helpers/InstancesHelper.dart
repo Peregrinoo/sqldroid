@@ -1,4 +1,3 @@
-// ignore: duplicate_ignore
 //                                        Deus seja louvado !!!
 
 // ignore_for_file: file_names, prefer_final_fields
