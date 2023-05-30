@@ -1,6 +1,7 @@
 # SQLdroid
 
--> A ideia este projeto é ser um datalogger para dispositivos como microcontroladores\n
+-> A ideia este projeto é ser um datalogger para dispositivos como microcontroladores
+
 -> Este programa armazena os dados coletados em tabelas em databases as quais o usuario é quem cria
 
 ## Como funciona ??
