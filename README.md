@@ -1,16 +1,9 @@
 # sqldroid
 
-A sql server host for android
+-> A ideia este projeto é ser um datalogger para dispositivos como microcontroladores
+-> Este programa armazena os dados coletados em tabelas em databases as quais o usuario é quem cria
 
-## Getting Started
+## Como funciona ??
 
-This project is a starting point for a Flutter application.
+-> Ao abrir a tela do APP pela primeira vez, você irá se deparar com a tela inicial do aplicativo
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
